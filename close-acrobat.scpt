@@ -1,3 +1,3 @@
-tell application "Adobe Acrobat Reader DC"
+tell application "Adobe Acrobat Reader"
   quit
 end tell

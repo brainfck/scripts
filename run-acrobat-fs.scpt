@@ -1,4 +1,4 @@
-tell application "Adobe Acrobat Reader DC"
+tell application "Adobe Acrobat Reader"
     activate
     delay 3
     tell application "System Events"
